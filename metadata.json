@@ -1,0 +1,6 @@
+{
+  "name": "Jeu de Rôle : Témoin du Harcèlement Scolaire",
+  "description": "Une aventure interactive textuelle pour sensibiliser les élèves de CM2 à la lutte contre le harcèlement scolaire, incarnant un témoin direct de la situation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
